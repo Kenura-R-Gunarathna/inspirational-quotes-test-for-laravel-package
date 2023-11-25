@@ -1,0 +1,19 @@
+{
+    "name": "kenura/inspire",
+    "description": "Inspiration quote generator",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kenura\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kenura R.Gunarathna",
+            "email": "kenuragunarathna@gmail.com"
+        }
+    ]
+}
